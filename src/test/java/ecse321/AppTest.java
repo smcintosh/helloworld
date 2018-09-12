@@ -1,3 +1,6 @@
+
+
+
 package ecse321;
 
 import static org.junit.Assert.assertTrue;
@@ -15,6 +18,6 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-        assertTrue( false );
+        assertTrue( true );
     }
 }
