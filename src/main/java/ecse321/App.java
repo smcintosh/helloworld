@@ -1,7 +1,7 @@
 package ecse321;
 
 /**
- * Ciao Mondo !
+ * Ciao Mondo!
  *
  */
 public class App 
