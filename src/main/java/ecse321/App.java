@@ -1,13 +1,13 @@
 package ecse321;
 
 /**
- * Hello world!
+ * Halo Dunia!
  *
  */
 public class App 
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        System.out.println( "Halo Dunia!" );
     }
 }
