@@ -12,3 +12,14 @@ public class App
         System.out.println("Hello dood!");
     }
 }
+
+
+
+
+ if (colour == 1 || (colour == 2 && weight == 0)) { // don't retrieve
+        Controller.pickUpCan();
+        Controller.moveCan();   
+      } else {
+        Controller.targetFound = true;
+        Controller.pickUpCan();
+      }
