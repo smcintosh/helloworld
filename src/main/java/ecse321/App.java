@@ -8,6 +8,9 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+        //Intentional Build Break
+        System.out.println( "Ciao Mondo" );
+
+        System.out.println( "I'm super stoked for ECSE321!");
     }
 }
